@@ -4,6 +4,13 @@
 
 The Evaluation App is a full-stack application designed to streamline the process of creating, managing, and analyzing evaluations. Professors can use it to create custom evaluation forms, view past results, and prepare presentations, while students can fill out the forms via mobile devices using QR codes.
 
+<p align="center">
+  <img src="./src/frontend/app/assets/images/EvaluationResults.png" alt="Evaluation Results" width="45%">
+  <img src="./src/frontend/app/assets/images/SurveyBuilder.png" alt="Survey Builder" width="45%">
+  <img src="./src/frontend/app/assets/images/SurveyStudent.png" alt="Survey Student View" width="25%">
+  <img src="./src/frontend/app/assets/images/EvaluationResultsStudent.png" alt="Evaluation Results Student View" width="25%">
+</p>
+
 ## Tech Stack
 
 This project uses the following technologies:
