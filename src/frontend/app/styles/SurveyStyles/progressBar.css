@@ -1,0 +1,24 @@
+.progress-bar-container {
+    width: 100%; 
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden; /* Verhindert, dass der Fortschrittsbalken über den Container hinausgeht */
+    margin-bottom: 20px;
+  }
+  
+
+  .progress-bar {
+    height: 24px;
+    background-color: #0FA3B1;
+    border-radius: 5px;
+    transition: width 0.5s ease-out; /* Sanfte Übergänge für die Breite */
+  }
+  
+  .progress-number {
+    text-align: center;
+    color: #000000;
+    font-style: normal;
+    font-weight: 500;
+    opacity: 1;
+    margin: 0;
+  }

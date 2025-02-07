@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "647f7a77167ad4b65c7dbbee",
+    "name": "Test User",
+    "email": "x@x.com",
+    "password": "$2a$10$un0pcQ9DdrQpFQfuG2kEZ.RMsXr9di1bk2gX3YobYIYOL2N3cd642",
+    "faculty": "Database",
+    "phone": "1234567890",
+    "evaluationIds": ["648a8a77123ad4b65c7db000", "648a8a77123ad4b65c7db004"],
+    "surveyIds": ["648a8a77123ad4b65c7db999"]
+  }
+]

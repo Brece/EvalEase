@@ -1,0 +1,660 @@
+[
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b3",
+    "type": "scale",
+    "question": "Die Zielsetzung und die Lernziele der Veranstaltung sind klar erkennbar.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b4",
+    "type": "scale",
+    "question": "Die Veranstaltung verläuft nach einer klaren, nachvollziehbaren Gliederung.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b5",
+    "type": "scale",
+    "question": "Der/die Dozierende drückt sich klar und verständlich aus.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b6",
+    "type": "scale",
+    "question": "Die verwendeten Lehrmethoden tragen gut zum Verständnis der Lerninhalte bei.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b7",
+    "type": "scale",
+    "question": "Die Hilfsmittel zur Unterstützung des Lernens (z.B. Lehrmaterialien, Literatur, Skript) sind ausreichend und in guter Qualität vorhanden.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b8",
+    "type": "scale",
+    "question": "Der/die Dozierende kann komplizierte Sachverhalte gut erklären.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b1b9",
+    "type": "scale",
+    "question": "Der/die Dozierende wirkt gut vorbereitet.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b111",
+    "type": "scale",
+    "question": "Die behandelten Themen werden von verschiedenen Seiten beleuchtet und in einen größeren Zusammenhang gestellt.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b112",
+    "type": "scale",
+    "question": "Der/die Dozierende setzt Medien (z.B. Folien, Flipcharts, Video) in geeigneter Weise ein.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b113",
+    "type": "scale",
+    "question": "Der/die Dozierende geht respektvoll und wertschätzend mit den Studierenden um.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Umgang mit Studierenden"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b114",
+    "type": "scale",
+    "question": "Der/die Dozierende geht auf Fragen und Anregungen der Studierenden ausreichend ein.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Umgang mit Studierenden"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b115",
+    "type": "scale",
+    "question": "In der Veranstaltung herrscht eine gute Arbeitsatmosphäre.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Umgang mit Studierenden"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b116",
+    "type": "scale",
+    "question": "Mein Interesse am Thema der Lehrveranstaltung ist sehr groß.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Interesse und Relevanz"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b117",
+    "type": "scale",
+    "question": "Ich lerne in der Lehrveranstaltung Sinnvolles und Wichtiges.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Interesse und Relevanz"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3b167",
+    "type": "scale",
+    "question": "Der/die Dozierende gestaltet die Veranstaltung interessant.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Interesse und Relevanz"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440030f3b1b3",
+    "type": "scale",
+    "question": "Ein Bezug zwischen Theorie und Praxis/Anwendung wird hergestellt.",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Interesse und Relevanz"
+  },
+  {
+    "_id": "5f9b1b3b1c92440000f3b1b3",
+    "type": "scale",
+    "question": "Mein Vorwissen zur Thematik dieser Veranstaltung war ...",
+    "options": ["Sehr groß", "Groß", "Neutral", "Gering", "Sehr gering"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Vorwissen und Lerngewinn"
+  },
+  {
+    "_id": "5f9b1b4b1c9d440000f3b1b3",
+    "type": "scale",
+    "question": "Mein Lernzuwachs in dieser Veranstaltung war ...",
+    "options": ["Sehr groß", "Groß", "Neutral", "Gering", "Sehr gering"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Vorwissen und Lerngewinn"
+  },
+  {
+    "_id": "5f971b3b1c9d440000f3b1b3",
+    "type": "scale",
+    "question": "Die erzielten Erkenntnisgewinne wurden verdeutlicht, z.B. durch Zusammenfassung, Wiederholung o.ä..",
+    "options": [
+      "Trifft völlig zu",
+      "Trifft eher zu",
+      "Neutral",
+      "Trifft eher nicht zu",
+      "Trifft gar nicht zu"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Vorwissen und Lerngewinn"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440900f3b1b3",
+    "type": "scale",
+    "question": "Der Schwierigkeitsgrad der Lehrinhalte der Veranstaltung ist ...",
+    "options": [
+      "Viel zu hoch",
+      "Zu hoch",
+      "Angemessen",
+      "Zu niedrig",
+      "Viel zu niedrig"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "5f9b1b3b1c93440000f3b1b3",
+    "type": "scale",
+    "question": "Der mengenmäßige Umfang der Lehrinhalte der Veranstaltung ist ...",
+    "options": [
+      "Viel zu hoch",
+      "Zu hoch",
+      "Angemessen",
+      "Zu niedrig",
+      "Viel zu niedrig"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "5f9b1b3b1c9d449900f3b1b3",
+    "type": "scale",
+    "question": "Das Tempo der Veranstaltung ist ...",
+    "options": [
+      "Viel zu hoch",
+      "Zu hoch",
+      "Angemessen",
+      "Zu niedrig",
+      "Viel zu niedrig"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f3y1b3",
+    "type": "scale",
+    "question": "Wie viele Stunden wenden Sie im Durchschnitt pro Woche außerhalb der Veranstaltung für die Erarbeitung (Vor- und Nachbereitung) des Stoffes auf?",
+    "options": [
+      "0 Std.",
+      "bis zu 1 Std.",
+      "bis zu 2 Std.",
+      "bis zu 3 Std.",
+      "bis zu 4 Std.",
+      "mehr als 4 Std."
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440f00f3b1b3",
+    "type": "scale",
+    "question": "Falls zutreffend: Wie viel Zeit planen Sie, speziell für die Prüfungsvorbereitung (d.h. das Lernen für die Prüfung) aufzuwenden? (Skala in Tagen; 1 Arbeitstag = 8 Std.)",
+    "options": [
+      "Weniger als 1 Tag",
+      "1-2 Tage",
+      "3-4 Tage",
+      "5-6 Tage",
+      "7-8 Tage",
+      "Mehr als 8 Tage"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "5f9b1b3b1c9d442000f3b1b3",
+    "type": "scale",
+    "question": "Mein Arbeitsaufwand für diese Lehrveranstaltung ist verglichen mit anderen Veranstaltungen mit der gleichen Anzahl an CPs...",
+    "options": [
+      "Sehr viel höher",
+      "Höher",
+      "Gleichwertig",
+      "Niedriger",
+      "Sehr viel niedriger"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "5f9b1b3b9c9d440000f3b1b3",
+    "type": "scale",
+    "question": "... würden Sie der Veranstaltung insgesamt geben?",
+    "options": ["1", "2", "3", "4", "5"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gesamtbewertung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d490000f3b1b3",
+    "type": "scale",
+    "question": "... würden Sie dem/der Dozierenden insgesamt geben?",
+    "options": ["1", "2", "3", "4", "5"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gesamtbewertung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d640000f3b1b3",
+    "type": "text",
+    "question": "Was gefällt Ihnen an der Veranstaltung, bzw. an der Gestaltung durch den/die Dozierende*n besonders gut?",
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gesamtbewertung"
+  },
+  {
+    "_id": "5f9b1b3b1c9d040000f3b1b3",
+    "type": "text",
+    "question": "Was gefällt Ihnen an der Veranstaltung, bzw. an der Gestaltung durch den/die Dozierende*n nicht so gut? Welche Verbesserungsvorschläge haben Sie?",
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Gesamtbewertung"
+  },
+  {
+    "_id": "5f9b1b3b1c4d440000f3b1b3",
+    "type": "pie",
+    "question": "In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Informatik",
+      "Informatik dual",
+      "Informatik dual - KITS",
+      "Informatik dual - KoSi",
+      "Informatik - Schwerpunkt Kommunikation und Medien in der Informatik",
+      "Anderer Studiengang"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f0b1b3",
+    "type": "scale",
+    "question": "Falls anderer Studiengang: In welchem Fachbereich sind Sie an der h_da eingeschrieben?",
+    "options": [
+      "Architektur",
+      "Bau- und Umweltingenieurwesen",
+      "Chemie- und Biotechnologie",
+      "Elektrotechnik und Informationstechnik",
+      "Gesellschaftswissenschaften",
+      "Gestaltung",
+      "Informatik",
+      "Maschinenbau und Kunststofftechnik",
+      "Mathematik und Naturwissenschaften",
+      "Media",
+      "Soziale Arbeit",
+      "Wirtschaft"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d441100f3b1b3",
+    "type": "pie",
+    "question": "Fachbereich Architektur: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": ["Architektur", "Innenarchitektur"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440260f3b1b3",
+    "type": "pie",
+    "question": "Fachbereich Bau- und Umweltingenieurwesen: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": ["Bauingenieurwesen", "Umweltingenieurwesen"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d448900f3b1b3",
+    "type": "pie",
+    "question": "Fachbereich Chemie- und Biotechnologie: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Biotechnologie",
+      "Chemie- und Biotechnologie",
+      "Chemie dual",
+      "Technische Chemie"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d445200f3b1b3",
+    "type": "scale",
+    "question": "Fachbereich Elektrotechnik und Informationstechnik: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Elektrotechnik und Informationstechnik",
+      "Electrical Engineering and Information Technology - International",
+      "Elektrotechnik - weiterbildend",
+      "Gebäudesystemtechnik",
+      "Wirtschaftsingenieurwesen",
+      "Zuverlässigkeitsingenieurwesen"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d473000f3b1b3",
+    "type": "pie",
+    "question": "Fachbereich Gestaltung: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": ["Industriedesign", "Kommunikationsdesign"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d449900f3b1b3",
+    "type": "pie",
+    "question": "Fachbereich Gesellschaftswissenschaften: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Angewandte Sozialwissenschaften",
+      "Informationsrecht",
+      "Internationales Lizenzrecht",
+      "Risikoabschätzung und Nachhaltigkeitsmanagement (RASUM)",
+      "Wirtschaftspsychologie"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f621b3",
+    "type": "pie",
+    "question": "Fachbereich Informatik: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Informatik",
+      "Informatik dual",
+      "Informatik dual - KITS",
+      "Informatik dual - KoSi",
+      "Informatik, Schwerpunkt Kommunikation und Medien in der Informatik"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d440000f631b3",
+    "type": "pie",
+    "question": "Fachbereich Maschinenbau und Kunststofftechnik: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Allgemeiner Maschinenbau",
+      "Automobilentwicklung",
+      "Kunststofftechnik",
+      "Maschinenbau",
+      "Mechatronik"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d44000963b1b3",
+    "type": "pie",
+    "question": "Fachbereich Mathematik und Naturwissenschaften: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Angewandte Mathematik",
+      "Data Science",
+      "Optotechnik u. Bildverarbeitung"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c9d494000f3b1b3",
+    "type": "scale",
+    "question": "Fachbereich Media: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Animation and Game",
+      "Augmented and Virtual Reality Design (Expanded Realities)",
+      "Expanded Media",
+      "Information Science",
+      "Interactive Media Design",
+      "International Media Cultural Work",
+      "Media - Technology & Society",
+      "Motion Pictures",
+      "Onlinejournalismus",
+      "Onlinekommunikation",
+      "Sound, Music and Production"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "523b1b3b1c9d440000f3b1b3",
+    "type": "scale",
+    "question": "Fachbereich Soziale Arbeit: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Soziale Arbeit",
+      "Soziale Arbeit DasDoris",
+      "Soziale Arbeit: Kritisch-reflexive und forschende Zugänge",
+      "Soziale Arbeit - Generationenbeziehungen in einer alternden Gesellschaft",
+      "Soziale Arbeit PLUS Migration und Globalisierung",
+      "Soziale Arbeit PLUS Psychomotorik"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b183d440000f3b1b3",
+    "type": "scale",
+    "question": "Fachbereich Wirtschaft: In welchem Studiengang sind Sie aktuell eingeschrieben?",
+    "options": [
+      "Betriebswirtschaftslehre",
+      "Energiewirtschaft",
+      "Internationale Betriebswirtschaftslehre",
+      "Logistik-Management",
+      "Business Administration (MBA)",
+      "Public Management"
+    ],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  },
+  {
+    "_id": "5f9b1b3b1c99540000f3b1b3",
+    "type": "pie",
+    "question": "Um welche Abschlussart handelt es sich bei Ihrem derzeitigen Studiengang?",
+    "options": ["Bachelor", "Master", "Diplom"],
+    "responses": [],
+    "show": true,
+    "isFavorite": false,
+    "category": "Ergänzende Angaben"
+  }
+]

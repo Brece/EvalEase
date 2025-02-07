@@ -1,0 +1,14 @@
+.thankYouMessage-container {
+    display: flex;
+    height: 214px;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4A261;
+    margin-top: 130px;
+}
+
+.thankYouMessage-text {
+    color: #F8F9FA;
+    font-size: 20px;
+    font-weight: 450;
+}

@@ -1,0 +1,10 @@
+.survey-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}

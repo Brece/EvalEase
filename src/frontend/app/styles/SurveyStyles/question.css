@@ -1,0 +1,114 @@
+/* Grundlegendes Styling für den Container */
+.question-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding: 20px;
+    margin: 15px 0px;
+    border: 1px solid #ddd;
+    background-color: #F8F9FA;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling für den Fragetext */
+.question-text {
+    color: #1B263B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 140%;
+}
+
+.select-one-text {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 10px;
+    opacity: 0.5;
+    line-height: 140%;
+}
+
+.hr-line {
+    border: none;
+    height: 2px;
+    background-color: #FFF;
+    margin: 10px 0px;
+}
+
+/* Styling für die Optionen */
+.options-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: start;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+/* Styling für die Optionen */
+.options-container-rating,
+.options-container-yes-no {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.option-button {
+    flex-shrink: 1;
+    font-size: 16px;
+    color: #fff;
+    background-color: #0FA3B1;
+    border: none;
+    border-radius: 5px;
+    opacity: 0.25;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+    width: 70px;
+    height: 45px;
+    text-align: center;
+}
+
+.option-button:hover {
+    opacity: 0.7;
+}
+
+/* Zustand für den ausgewählten Button */
+.option-button.selected {
+    opacity: 1;
+}
+
+
+/* Styling für Labels (Checkbox und Radio) */
+.option-label {
+    display: flex;       
+    align-items: center;    
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 140%;
+    padding-top: 1px;
+}
+
+.option-input {
+    margin-right: 15px;
+}
+
+.text-input {
+    border: 1px solid #000000;
+    resize: none;
+}
+
+
+@media (max-width: 440px) {
+    .option-button {
+        width: 40px;
+        height: 45px;
+    }
+  }

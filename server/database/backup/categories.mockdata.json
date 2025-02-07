@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "64ae8b77123ad4b65c7db001",
+    "name": "Gestaltung der Lehrveranstaltung"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db002",
+    "name": "Umgang mit Studierenden"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db003",
+    "name": "Interesse und Relevanz"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db004",
+    "name": "Vorwissen und Lerngewinn"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db005",
+    "name": "Schwierigkeit, Umfang und Arbeitsaufwand (Workload)"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db006",
+    "name": "Gesamtbewertung"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db007",
+    "name": "Ergänzende Angaben"
+  },
+  {
+    "_id": "64ae8b77123ad4b65c7db008",
+    "name": "Personalisierte Fragen"
+  }
+]

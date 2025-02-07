@@ -1,0 +1,31 @@
+.absenden-button {
+    background-color: #4C86D1;
+    height: 30px;
+    width: 100px;
+    color: #FFFFFF;
+    border-radius: 5px; 
+    font-size: 16px; 
+    text-align: center;
+    font-weight: 400;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Schatteneffekt */ 
+}
+
+.absenden-button:hover {
+    opacity: 0.7;
+}
+
+.navigation-button {
+    background-color: #1B263B;
+    height: 30px;
+    width: 100px;
+    color: #FFFFFF;
+    border-radius: 5px; 
+    font-size: 16px; 
+    text-align: center;
+    font-weight: 400;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Schatteneffekt */ 
+}
+
+.navigation-button:hover {
+    opacity: 0.7;
+}
